@@ -7,6 +7,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -33,6 +34,10 @@ Users should be able to:
 
 #### Mobile 375px
 ![](./screenshots/mobile-screenshot.jpg)
+
+### Link
+
+- Live Site URL: [Github Pages](https://sebastian-agrano.github.io/frontend-mentor-3-column-preview-card-component/)
 
 ## My process
 
