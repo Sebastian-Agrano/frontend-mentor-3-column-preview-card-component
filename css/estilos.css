@@ -71,6 +71,7 @@ div.boton {
   padding: 15px 30px;
   border-radius: 25px;
   border: 2px solid rgba(255, 255, 255, 0);
+  transition: all 0.7s;
 }
 
 a {
@@ -116,7 +117,7 @@ a:hover div.boton-luxury {
 
   main.contenedor {
     flex-direction: column;
-    min-width: 337px;
+    min-width: 300px;
     max-width: initial;
     width: 90%;
   }
